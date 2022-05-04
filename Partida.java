@@ -15,7 +15,7 @@ public class Partida {
     int [][]tablero;
     private int tamaño;
     int posicionHeroe;
-   
+    int posicionEnemigo;
     int posicionEnemigo2;
     int posicionEnemigo3;
 
